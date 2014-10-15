@@ -1,0 +1,9 @@
+{
+  "name": "katas-string-calculator",
+  "version": "0.0.1",
+  "main": "stringCalculator.js",
+  "dependencies": {
+    "chai": "~1.9.2"
+  },
+  "devDependencies": {}
+}
